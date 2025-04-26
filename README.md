@@ -1,2 +1,2 @@
-# alura-lingua-plus-
-responsive layout alura lingua plus+
+# alura-lingua-plus--
+responsive layout Alura plus+
